@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 1.xxxxxxxxxxxxxxxxx
 2.master
 3.xxxxxxxxxxxxxxxx
-=======
 1.xxxxxxxx
 2.devxxxxxxxxx
 3.xxxxxxxxx
->>>>>>> dev
 cxxcvv
 xcsdfsfsf
 sdfsdfsfsf
 cvsdfsdfsfs
+4.xxxxxxxxxxx
+5.xxxxxxxxxxx
